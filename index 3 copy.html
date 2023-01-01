@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>With Pet</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Leckerli+One&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Lilita+One&display=swap"
+      rel="stylesheet"
+    />
+    <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="./images/favicon.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.7/jquery.fullpage.min.css"
+    />
+    <script src="https://code.jquery.com/jquery-latest.min.js"></script>
+  </head>
+  <body>
+    <div id="fullpage">
+      <div class="container">
+        <header class="header">
+          <nav>
+            <ul>
+              <li data-menuanchor="menu1">
+                <a href="#menu1">Home</a>
+              </li>
+              <li data-menuanchor="menu2">
+                <a href="#menu2">About</a>
+              </li>
+           
+            <div class="logo">
+              <p id="logo_name">With Pet</p>
+              <img src="./images/logo.png" />
+            </div>
+            
+              <li data-menuanchor="menu3">
+                <a href="#menu3">Map</a>
+              </li>
+              <li data-menuanchor="menu4">
+                <a href="#menu4">Contact</a>
+              </li>
+            </ul>
+          </nav>
+        </header>
+        <div class="section" id="show_section">
+          <div class="show_box">
+            <div class="show_img">
+              <img src="./images/showbon.png" class="bone" />
+              <img src="./images/love.png" class="heart" />
+            </div>
+            <div class="show_pbox">
+              <p class="show_p1">Everywhere</p>
+              <p class="show_p2">With Pet!</p>
+            </div>
+          </div>
+        </div>
+        <div class="section" id="about_section">
+          <h2 class="sec_tit">About</h2>
+          <div class="about_box">
+            <div class="p_box">
+              <p>
+                <span>With Pet</span>은 반려동물 출입이 가능한 장소를 지도로 나타내어 보다 쉽게 외출할 수 있도록 지원합니다.
+              </p>
+              <p>
+                <span>With Pet</span>을 통해 일일이 확인할 필요 없이 <Br>어디든 갈 수 있습니다.
+              </p>
+            </div>
+              <div class="pet_image">
+                <img src="./images/show.png">
+              </div>
+          </div>
+        </div>
+        <div class="section" id="map_section">
+          <h2 class="sec_tit">Map</h2>
+
+          <div id="map">
+            <p id="result"></p>
+          </div>
+        </div>
+       
+        <div class="section" id="contact_section">
+            <div class="container">
+                <h2 class="sec_tit">
+                    Contact
+                </h2>
+                <div class="form_box">
+                    <form action="">
+                        <fieldset class="cfixed">
+                            <legend class="blind"></legend>
+                            <div class="form">
+                                <label for="name" class="blind">Name</label>
+                                <input type="text" id="name" placeholder="name">
+                                <label for="phone" class="blind">Phone</label>
+                                <input type="text" id="phone" placeholder="phone">
+                                <label for="email" class="blind">Email address</label>
+                                <input type="text" id="email" placeholder="Email Address">
+                            </div>
+                            <div class="textarea">
+                                <label for="message" class="blind">Messeage</label>
+                                <textarea name="message" id="message" placeholder="Message"></textarea>
+                            </div>
+                        </fieldset>
+                        <div class="send_btn">
+                            <button>Send</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <footer class="section fp-auto-height">
+          <div class="footer_wrap">
+            <div class="copyright">
+              <h4>With Pet</h4>
+              <p>Copyright &copy; With Pet Corp. All Rights Reserved.</p>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </div>
+
+    <script
+      type="text/javascript"
+      src="//dapi.kakao.com/v2/maps/sdk.js?appkey=e57fe82a66f1289f293da60cc5f41c73&libraries=services"
+    ></script>
+
+    <script src="./index 3 copy.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/2.9.7/jquery.fullpage.extensions.min.js"></script>
+    <script src="./fullPage.js"></script>
+  </body>
+</html>

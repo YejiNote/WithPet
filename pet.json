@@ -1,0 +1,169 @@
+{
+  "cafe": [
+    {
+      "id": 1,
+      "name": "상봉커피",
+      "address": "서울특별시 중랑구 봉우재로 96",
+      "addressSi": "서울시",
+      "addressGu": "중랑구",
+      "workingtime": "화~일 12:00 ~ 18:00",
+      "Latitude": 37.5918972,
+      "Longitude": 127.0837317,
+      "photo": "./images/cafe1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "제주역",
+      "address": "서울특별시 중랑구 상봉중앙로5다길 49 201호",
+      "addressSi": "서울시",
+      "addressGu": "중랑구",
+      "workingtime": "월~토 12:00 ~ 21:00",
+      "Latitude": 37.5980667,
+      "Longitude": 127.0865476,
+      "photo": "./images/cafe2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "카페 향아",
+      "address": "서울특별시 중랑구 사가정로46길 18",
+      "addressSi": "서울시",
+      "addressGu": "중랑구",
+      "workingtime": "수~일 12:00 ~ 21:00",
+      "Latitude": 37.5802264,
+      "Longitude": 127.084588,
+      "photo": "./images/cafe3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "단집",
+      "address": "서울특별시 중랑구 사가정로54길 69 1층",
+      "addressSi": "서울시",
+      "addressGu": "중랑구",
+      "workingtime": "월~금 10:00 ~ 21:00",
+      "Latitude": 37.578204,
+      "Longitude": 127.0867491,
+      "photo": "./images/cafe4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "모코",
+      "address": "서울특별시 중랑구 면목로49길 33 1층",
+      "addressSi": "서울시",
+      "addressGu": "중랑구",
+      "workingtime": "매일 11:00 ~ 22:00",
+      "Latitude": 37.5826805,
+      "Longitude": 127.08664,
+      "photo": "./images/cafe5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "개인공간",
+      "address": "서울특별시 중랑구 송림길 12 1층",
+      "addressSi": "서울시",
+      "addressGu": "중랑구",
+      "workingtime": "화~토 12:00 ~ 22:00",
+      "Latitude": 37.5998681,
+      "Longitude": 127.0956868,
+      "photo": "./images/cafe6.jpg"
+    },
+    {
+      "id": 7,
+      "name": "카페더메뉴얼",
+      "address": "서울특별시 중랑구 묵2 동일로157길 65 동",
+      "addressSi": "서울시",
+      "addressGu": "중랑구",
+      "workingtime": "매일 11:00 ~ 22:00",
+      "Latitude": 37.609297,
+      "Longitude": 127.0741357,
+      "photo": "./images/cafe7.jpg"
+    },
+    {
+      "id": 8,
+      "name": "허밍버드",
+      "address": "서울특별시 중랑구 상봉중앙로1가길 1-10 1층",
+      "addressSi": "서울시",
+      "addressGu": "중랑구",
+      "workingtime": "화~일 12:00 ~ 23:00",
+      "Latitude": 37.5984558,
+      "Longitude": 127.0874461,
+      "photo": "./images/cafe8.jpg"
+    },
+    {
+      "id": 9,
+      "name": "카페252",
+      "address": "서울특별시 중랑구 망우로 252",
+      "addressSi": "서울시",
+      "addressGu": "중랑구",
+      "workingtime": "매일 09:00 ~ 23:00",
+      "Latitude": 37.5947821,
+      "Longitude": 127.0806943,
+      "photo": "./images/cafe9.jpg"
+    },
+    {
+      "id": 10,
+      "name": "커피스터프",
+      "address": "서울특별시 중랑구 망우로42길 10 1층",
+      "addressSi": "서울시",
+      "addressGu": "중랑구",
+      "workingtime": "매일 10:00 ~ 22:00",
+      "Latitude": 37.5950005,
+      "Longitude": 127.0826994,
+      "photo": "./images/cafe10.jpg"
+    },
+    {
+      "id": 11,
+      "name": "한시십일분",
+      "address": "서울특별시 동대문구 휘경동 267-84",
+      "addressSi": "서울시",
+      "addressGu": "동대문구",
+      "workingtime": "화~토 12:00 ~ 23:00",
+      "Latitude": 37.5894645,
+      "Longitude": 127.0609308,
+      "photo": "./images/cafe11.jpg"
+    },
+    {
+      "id": 12,
+      "name": "깡통집",
+      "address": "서울특별시 동대문구 휘경동 57-1",
+      "addressSi": "서울시",
+      "addressGu": "동대문구",
+      "workingtime": "매일 10:00 ~ 23:00",
+      "Latitude": 37.5842639,
+      "Longitude": 127.0683488,
+      "photo": "./images/bistro12.jpg"
+    },
+    {
+      "id": 13,
+      "name": "카페유즈",
+      "address": "서울특별시 동대문구 장안동 사가정로 233",
+      "addressSi": "서울시",
+      "addressGu": "동대문구",
+      "workingtime": "매일 10:00 ~ 23:00",
+      "Latitude": 37.5789334,
+      "Longitude": 127.0709399,
+      "photo": "./images/cafe13.jpg"
+    },
+    {
+      "id": 14,
+      "name": "망우로30",
+      "address": "서울특별시 동대문구 휘경동 317-60번지 1층",
+      "addressSi": "서울시",
+      "addressGu": "동대문구",
+      "workingtime": "매일 09:30 ~ 22:00",
+      "Latitude": 37.5879835,
+      "Longitude": 127.0567916,
+      "photo": "./images/cafe14.jpg"
+    },
+    {
+      "id": 15,
+      "name": "럭키식당",
+      "address": "서울특별시 동대문구 휘경2동 294-222",
+      "addressSi": "서울시",
+      "addressGu": "동대문구",
+      "workingtime": "매일 11:00 ~ 21:00",
+      "Latitude": 37.5868152,
+      "Longitude": 127.0602247,
+      "photo": "./images/bistro15.jpg"
+    }
+  ]
+}
